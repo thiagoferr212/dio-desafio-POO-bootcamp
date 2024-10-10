@@ -1,6 +1,9 @@
-package br.com.dio.desafio.dominio;
+
 
 import java.time.LocalDate;
+
+import br.com.dio.desafio.dominio.Curso;
+import br.com.dio.desafio.dominio.Mentoria;
 
 public class Main {
     public static void main(String[] args) {
